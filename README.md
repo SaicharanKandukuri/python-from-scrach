@@ -1,4 +1,4 @@
-# snippets-python-from-scrach  (My Journey with python)
+# python-from-scrach  (My Journey with python)
 
 ## what is this repo
 this is archive of scripts and documention of the topics i learnt in python 
