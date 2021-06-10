@@ -8,4 +8,3 @@ firstname = name[0:5]
 f_n = name[0:19:2]
 reversed_n=name[::-1]
 print(reversed_n)
-# 0:52
