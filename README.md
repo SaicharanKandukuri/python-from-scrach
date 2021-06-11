@@ -8,7 +8,6 @@ this is archive of scripts and documention of the topics i learnt in python
 - i make a some crazy spam codes instead of standard examples so give it a try before seeing code :)
 - show me love and your presence by leaving a `star` and comment on commits
 
-( I upload some code every Day )
 
 
 Peace in our time :)
