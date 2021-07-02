@@ -1,0 +1,1 @@
+print(len(open('D:\Apps & files\Codes\python-from-scrach\/file_handling\gg.txt','r').readlines()))
