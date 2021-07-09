@@ -1,7 +1,7 @@
 
-line=str(input("menter something: "))
+line="name = \
+      class =   \
+        age =    \
+        adress= "
 f = open('gg.txt','w')
 f.writelines(line)
-f.close()
-f = open('gg.txt','r')
-print(f.readlines())

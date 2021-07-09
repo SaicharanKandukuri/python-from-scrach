@@ -1,1 +1,1 @@
-dhsgdh
+name =       class =           age =            adress= 

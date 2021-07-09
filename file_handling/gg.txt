@@ -1,8 +1,0 @@
-Hello There
-D:\Apps & files\Codes\python-from-scrach\file_handling\gg.tar -cvpzf /hippo-arm64-v02-xfce4.tar.gz --exclude-caches-all --exclude=/dev/*  --exclude=/sys/* --exclude=/proc/* --exclude=/run/* --exclude=/hippo-arm64-v02-xfce4.tar.gz /* --one-file-systems
-D:\Apps & files\Codes\python-from-scrach\file_handling\gg.txt
-D:\Apps & files\Codes\python-from-scrach\file_handling\gg.tar -cvpzf /hippo-arm64-v02-xfce4.tar.gz --exclude-caches-all --exclude=/dev/*  --exclude=/sys/* --exclude=/proc/* --exclude=/run/* --exclude=/hippo-arm64-v02-xfce4.tar.gz /* --one-file-systems
-
-tar -cvpzf /hippo-arm64-v02-xfce4.tar.gz --exclude-caches-all --exclude=/dev/*  --exclude=/sys/* --exclude=/proc/* --exclude=/run/* --exclude=/hippo-arm64-v02-xfce4.tar.gz /* --one-file-systemd
-tar -cvpzf /hippo-arm64-v02-xfce4.tar.gz --exclude-caches-all --exclude=/dev/*  --exclude=/sys/* --exclude=/proc/* --exclude=/run/* --exclude=/hippo-arm64-v02-xfce4.tar.gz /* --one-file-systemd
-sys
