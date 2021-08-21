@@ -1,8 +1,7 @@
 import pyautogui
 import time
 
-
-msg = input("EAM")
+msg = input("EAM ")
 n = input("How many times ?: ")
 
 time.sleep(2)
